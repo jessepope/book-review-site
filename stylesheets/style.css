@@ -1,0 +1,27 @@
+* {
+    font-family: Helvetica;
+}
+
+header {
+    background-color:rgb(92, 92, 172);
+}
+
+footer {
+    background-color:rgb(92, 92, 172);
+}
+
+body {
+    background-color:rgb(65, 65, 184);
+}
+
+h1 {
+    color:rgb(190, 190, 232)
+}
+
+nav ul li a:hover {
+    color: rgb(92, 92, 172);
+}
+
+nav ul li {
+    list-style-type: none;
+}

@@ -1,0 +1,19 @@
+h1 {
+    font-family: helvetica;
+    font-size: 19px;
+    color: midnightblue
+}
+
+h2 {
+    font-family: helvetica;
+    font-size: 14px;
+    color: midnightblue;
+}
+
+li {
+    list-style-type: circle;
+}
+
+img {
+    width: 100px;
+}
