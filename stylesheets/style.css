@@ -3,25 +3,32 @@
 }
 
 header {
-    background-color:rgb(92, 92, 172);
+    background-color: rgb(46, 45, 45);
 }
 
 footer {
-    background-color:rgb(92, 92, 172);
+    background-color: rgb(46, 45, 45);
 }
 
 body {
-    background-color:rgb(65, 65, 184);
+    background-color:rgb(46, 45, 45);
+}
+main{
+    background-color:rgb(46, 45, 45);
 }
 
 h1 {
-    color:rgb(190, 190, 232)
+    color: rgb(148, 57, 47);
+}
+
+h2 {
+    color: rgb(148, 57, 47);
 }
 
 nav ul li a:hover {
-    color: rgb(92, 92, 172);
+    color: rgb(148, 57, 47);
 }
 
-nav ul li {
+ul li {
     list-style-type: none;
 }

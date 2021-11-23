@@ -1,13 +1,11 @@
 h1 {
     font-family: helvetica;
-    font-size: 19px;
-    color: midnightblue
+    font-size: 35px;
 }
 
 h2 {
     font-family: helvetica;
-    font-size: 14px;
-    color: midnightblue;
+    font-size: 25px;
 }
 
 li {
@@ -15,5 +13,9 @@ li {
 }
 
 img {
-    width: 100px;
+    width: 175px;
+}
+
+nav{
+    background-color: lightgrey;
 }
